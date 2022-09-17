@@ -1,4 +1,4 @@
-package com.example.springstudy.Repository;
+package com.example.springstudy.repository;
 
 
 import com.example.springstudy.entity.Account;
