@@ -1,7 +1,7 @@
-package Repository;
+package com.example.springstudy.Repository;
 
 
-import entity.Account;
+import com.example.springstudy.entity.Account;
 
 import java.util.List;
 
